@@ -1,5 +1,7 @@
+import HomePage from "./home-page"
+
 const App = () => <>
-    <h1>Hello world!</h1>
+    <HomePage />
   </>
 
 export default App
